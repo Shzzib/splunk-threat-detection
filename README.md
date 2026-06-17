@@ -75,6 +75,8 @@ A potential account compromise was detected — a user account was accessed succ
 - Alert configured to trigger when a success event follows within a short time window
 - Runs continuously to detect real-time compromises
 - Generates alerts for immediate SOC investigation
+  
+![New Admin Account Creation Dashboard](q3-dashboard.png)
 
 ---
 
